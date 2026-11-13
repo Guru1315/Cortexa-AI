@@ -142,21 +142,9 @@ Cortexa-AI/
 ├── singles/         2 single posts
 ├── brand/           logo.svg and the logo on photography
 ├── assets/          README banner and carousel grid
-└── CREDITS.md       photographers and licences
 ```
 
 All slides are 1080 × 1350 WebP, Instagram's 4:5 carousel format.
-
-## Credits
-
-**Concept, art direction, copy, information design and layouts:** Guru Charan.
-
-Cortexa AI is a **concept brand** made for this portfolio. It isn't a real company, and the figures, venues, students and quiz are fictional. The detection boxes, heat-maps and charts are designed illustrations; no real AI analysis was run on these photos.
-
-The photography is free-licence stock found through [Openverse](https://openverse.org) (CC BY 2.0), then darkened, colour-graded and designed over. Every photographer is credited in **[CREDITS.md](CREDITS.md)**.
-
-<div align="center">
-<br>
 
 **[Portfolio](https://guru1315-portfolio.vercel.app)** · **[More graphic design work](https://guru1315-portfolio.vercel.app/graphic-designer)** · **[Aranya Living](https://github.com/Guru1315/Aaranya-Living)** · **[Kaelum Springs](https://github.com/Guru1315/kaelum-springs)** · **[Saanvi Atelier](https://github.com/Guru1315/Saanvi-Atelier)**
 
